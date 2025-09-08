@@ -18,3 +18,5 @@ And to run the load test:
 ```bash
 python load_test_vllm_gpt_oss_20b.py
 ```
+
+**Docker File:** [https://hub.docker.com/r/vllm/vllm-openai](https://hub.docker.com/r/vllm/vllm-openai)
